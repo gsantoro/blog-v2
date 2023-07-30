@@ -32,7 +32,7 @@ smartTOCHideUnfocusedChildren = true
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -75,6 +75,7 @@ smartTOCHideUnfocusedChildren = true
   showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   sharingLinks = [ "linkedin", "twitter", "reddit"]
+  showComments = true
 
 [list]
   showHero = false
@@ -86,11 +87,11 @@ smartTOCHideUnfocusedChildren = true
   showViews = true
   showLikes = true
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
