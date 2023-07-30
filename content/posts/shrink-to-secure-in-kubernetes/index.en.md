@@ -106,9 +106,7 @@ If instead, you are packaging your application in a container, keep reading abou
 ## Multi-stage Docker builds
 This technique is not new but still relevant especially if you want to still with using Dockerfile as your only way to build containers.
 
-The idea is simple, you use a big image with all the build tools available to build your binary and then another more lightweight image for running your application. This idea is used by other tools mentioned below, but, in those cases, you don't have to write a Dockerfile.
-
-For more information about multi-stage Docker builds, see the documentation [here](https://docs.docker.com/build/building/multi-stage/).
+The idea with [Docker multi-stage builds](https://docs.docker.com/build/building/multi-stage/) is simple, you use a big image with all the build tools available to build your binary and then another more lightweight image for running your application. This idea is used by other tools mentioned below, but, in those cases, you don't have to write a Dockerfile.
 
 <!-- Why use anything other than Dockerfile -->
 
