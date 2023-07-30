@@ -1,0 +1,29 @@
+# https://taskfile.dev
+
+version: '3'
+
+includes:
+  github: ./gh.taskfile.yml
+
+tasks:
+  default:
+    cmds:
+      - task: download
+        vars:
+          TASK_NAME: devenv
+
+      - task: download
+        vars:
+          TASK_NAME: direnv
+
+      - task: download
+        vars:
+          TASK_NAME: hugo
+
+  download:
+    cmds:
+      - task: github:download
+        vars: 
+          GITHUB_REPO: automation
+          GITHUB_PATH: tools/taskfiles/lib/{{.TASK_NAME}}.taskfile.yml
+          LOCAL_PATH: tools/taskfiles/lib/{{.TASK_NAME}}.taskfile.yml
