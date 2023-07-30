@@ -16,6 +16,7 @@ enableCodeCopy = true
 # robots = ""
 
 disableImageOptimization = false
+disableImageZoom = true
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
