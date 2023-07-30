@@ -13,7 +13,7 @@ You just bought your [Certified Kubernetes Administrator exam](https://trainingp
 
 In a previous post, I shared some tips to pass your CKA exam. 
 
-{{< article link="/posts/cka-exam-tips/" >}}
+<!-- {{< article link="/posts/cka-exam-tips/" >}} -->
 
 Here I would like to share what resources you can use if you like readings books on the topic.
 
