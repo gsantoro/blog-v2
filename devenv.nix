@@ -8,5 +8,6 @@
     pkgs.hugo
     pkgs.imagemagick
     pkgs.envchain
+    pkgs.gum
   ];
 }

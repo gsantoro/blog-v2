@@ -6,9 +6,10 @@ includes:
   automation: tools/taskfiles/automation.taskfile.yml
   gh: tools/taskfiles/gh.taskfile.yml
   
-  # hugo: tools/taskfiles/lib/hugo.taskfile.yml
-  # devenv: tools/taskfiles/lib/devenv.taskfile.yml
-  # direnv: tools/taskfiles/lib/direnv.taskfile.yml
+  # libs
+  hugo: tools/taskfiles/lib/hugo.taskfile.yml
+  devenv: tools/taskfiles/lib/devenv.taskfile.yml
+  direnv: tools/taskfiles/lib/direnv.taskfile.yml
   
 
 tasks:
