@@ -61,7 +61,7 @@ The problem with the analogy with VMs is that base images at the beginning close
 
 ## Alpine Linux
 
-![Alpine Linux](alpinelinux-logo.png "Alpine Linux")
+![Alpine Linux](alpinelinux-logo.webp "Alpine Linux")
 
 <!-- alpine -->
 The very first approach to reduce the size of container images was the introduction of a very lightweight base container image called [Alpine Linux](https://hub.docker.com/_/alpine/). I clearly remember when I started using Alpine as my base image, I thought that only the container size and the faster dev loop were good reasons to never use OS-based images in my Docker containers. 
@@ -89,7 +89,7 @@ We are going to explain when to use each of those techniques and why there is no
 
 ## Wolfi OS
 
-![WolfiOS](wolfi-logo.png "WolfiOS")
+![WolfiOS](wolfi-logo.webp "WolfiOS")
 
 Late last year, Chainguard (a company founded by Google engineers behind [distroless](https://www.chainguard.dev/unchained/minimal-container-images-towards-a-more-secure-future) containers) [announced](https://www.chainguard.dev/unchained/introducing-wolfi-the-first-linux-un-distro) a new container image called [Wolfi](https://github.com/wolfi-dev). 
 
@@ -125,7 +125,7 @@ I haven't used a multi-staged Dockerfile in a while now, but if I had to create 
 
 ## Buildpacks
 
-![Buildpacks.io](buildpacks-logo.png "Buildpacks.io")
+![Buildpacks.io](buildpacks-logo.webp "Buildpacks.io")
 
 [Buildpacks](https://buildpacks.io/) have a long history of development. There were first introduced in 2011 by Heroku and more recently they evolved into Cloud Native Buildpacks and they are now an incubating project in the [Cloud Native Foundation landscape](https://www.cncf.io/projects/buildpacks/).
 
