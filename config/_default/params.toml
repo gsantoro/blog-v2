@@ -75,7 +75,7 @@ smartTOCHideUnfocusedChildren = true
   showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   sharingLinks = [ "linkedin", "twitter", "reddit"]
-  showComments = true
+  showComments = false
 
 [list]
   showHero = false
