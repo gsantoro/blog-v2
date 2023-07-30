@@ -20,5 +20,5 @@ devenv.local.nix
 tools/taskfiles/lib/*.yml
 
 ## blog
-resources/
+# resources/
 .DS_Store

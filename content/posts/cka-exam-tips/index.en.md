@@ -74,4 +74,4 @@ I recently passed my Certified Kubernetes Administrator exam and I would like to
 Results are sent back after 24h from the exam starting time via email and via the exam home page
 
 ## Related articles
-<!-- {{< article link="/posts/prepare-for-cka-exam/" >}} -->
+{{< article link="/posts/prepare-for-cka-exam/" >}}
