@@ -7,6 +7,8 @@ tags:
 - DevOps
 - Certified Kubernetes
 description: Get valuable tips for passing the Certified Kubernetes Administrator (CKA) exam. Prepare effectively with insights on exam rules and environment setup
+aliases:
+- /cka-exam-tips/
 ---
 <!--more-->
 

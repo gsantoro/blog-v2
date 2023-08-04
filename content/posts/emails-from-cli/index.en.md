@@ -6,6 +6,8 @@ tags:
 - CLI
 - DevOps
 description: Combine Resend Email API, Pop from Charm.sh, Taskfile, Envchain to send emails from the command line
+aliases:
+- /emails-from-cli/
 ---
 <!--more-->
 

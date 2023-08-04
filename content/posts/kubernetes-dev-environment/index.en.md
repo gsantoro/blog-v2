@@ -8,6 +8,8 @@ tags:
 - Development environment
 - Docker
 description: Discover Kubernetes development environments. Explore options like Docker Desktop, Minikube, Kind, K3s, K3d, and Rancher Desktop
+aliases:
+- /kubernetes-dev-environment/
 ---
 <!--more-->
 TL;DR: I recently uninstalled Docker Desktop entirely from my MacBook and replaced it with Rancher Desktop. 

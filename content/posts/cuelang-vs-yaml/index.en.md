@@ -7,6 +7,8 @@ tags:
 - DevOps
 - Containers
 description: Discover CUE language, a better alternative to YAML for Kubernetes manifests. Simplify configuration management and schema validation
+aliases:
+- /cuelang-vs-yaml/
 ---
 <!--more-->
 <!--- subtitle --->

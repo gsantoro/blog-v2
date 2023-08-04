@@ -7,6 +7,8 @@ tags:
 - Credentials
 - Security
 description: Securely store secrets on laptops with envchain. It provides encryption at rest and integration with laptop lock mechanisms
+aliases:
+- /secrets/
 ---
 <!--more-->
 

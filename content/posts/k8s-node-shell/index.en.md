@@ -7,6 +7,8 @@ tags:
 - DevOps
 - Containers
 description: Discover node-shell, the powerful kubectl plugin that provides SSH-like access to Kubernetes nodes for infrastructure investigation
+aliases:
+- /k8s-node-shell/
 ---
 <!--more-->
 

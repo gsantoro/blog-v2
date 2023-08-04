@@ -6,6 +6,8 @@ tags:
 - Elasticsearch
 - Data Ingestion
 description: Learn how to address mapping exceptions in Elasticsearch with the ignore_malformed setting. Prevent dropped documents during ingestion and ensure data integrity
+aliases:
+- /elasticsearch-ignore-malformed/
 ---
 <!--more-->
 
