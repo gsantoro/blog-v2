@@ -125,11 +125,10 @@
     {{/* Firebase */}}
     {{ with $.Site.Params.firebase }}
     {{ if isset $.Site.Params "firebase" }}
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js" async></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js" async></script>
-    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js" async></script>
-    <script async>
-  
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+    <script defer>
       const firebaseConfig = {
         apiKey: {{ $.Site.Params.firebase.apiKey }},
         authDomain: {{ $.Site.Params.firebase.apiKey }},
