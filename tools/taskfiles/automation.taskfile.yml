@@ -3,7 +3,7 @@
 version: '3'
 
 includes:
-  github: ./gh.taskfile.yml
+  github: ./gh.taskfile_{{OS}}.yml
 
 tasks:
   default:

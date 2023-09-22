@@ -4,7 +4,7 @@ version: '3'
 
 includes:
   automation: tools/taskfiles/automation.taskfile.yml
-  gh: tools/taskfiles/gh.taskfile.yml
+  gh: tools/taskfiles/gh.taskfile_{{OS}}.yml
   
   # libs
   hugo: tools/taskfiles/lib/hugo.taskfile.yml
