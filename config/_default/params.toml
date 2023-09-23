@@ -48,8 +48,8 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateUpdated = false
   showAuthor = false
   showHero = true
@@ -84,8 +84,8 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = false
   showCards = true
   groupByYear = true
@@ -101,8 +101,8 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = false
   cardView = false
 
@@ -110,21 +110,21 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showTableOfContents = true
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
 
-[firebase]
-  apiKey = "AIzaSyBl-MtYyzsYFvmOD-afuEws706kWemcP8k"
-  authDomain = "blog-19ac2.firebaseapp.com"
-  projectId = "blog-19ac2"
-  storageBucket = "blog-19ac2.appspot.com"
-  messagingSenderId = "684015098384"
-  appId = "1:684015098384:web:c3f568fa9471599a448895"
-  measurementId = "G-WSD1XSCZ9H"
+# [firebase]
+#   apiKey = "AIzaSyBl-MtYyzsYFvmOD-afuEws706kWemcP8k"
+#   authDomain = "blog-19ac2.firebaseapp.com"
+#   projectId = "blog-19ac2"
+#   storageBucket = "blog-19ac2.appspot.com"
+#   messagingSenderId = "684015098384"
+#   appId = "1:684015098384:web:c3f568fa9471599a448895"
+#   measurementId = "G-WSD1XSCZ9H"
 
 [fathomAnalytics]
   # site = "ABC12345"
