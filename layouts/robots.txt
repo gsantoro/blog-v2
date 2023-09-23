@@ -1,10 +1,10 @@
 User-agent: *
 
-Disallow: /images/
-Disallow: /js/
-Disallow: /css/
-Disallow: /lib/
-Disallow: /svg/
+# Disallow: /images/
+# Disallow: /js/
+# Disallow: /css/
+# Disallow: /lib/
+# Disallow: /svg/
 Disallow: /tags/
 Disallow: /categories/
 
@@ -66,9 +66,9 @@ User-agent: ZoominfoBot
 Disallow: /
 
 User-agent: LinkedIn
-Allow: /images/
+# Allow: /images/
 
 User-agent: Twitterbot
-Allow: /images/
+# Allow: /images/
 
 Sitemap: {{ "/sitemap.xml" | absLangURL }}
