@@ -5,8 +5,8 @@ User-agent: *
 # Disallow: /css/
 # Disallow: /lib/
 # Disallow: /svg/
-Disallow: /tags/
-Disallow: /categories/
+# Disallow: /tags/
+# Disallow: /categories/
 
 User-agent: MJ12bot
 Disallow: /
