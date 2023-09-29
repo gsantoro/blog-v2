@@ -1,12 +1,6 @@
 User-agent: *
 
-# Disallow: /images/
-# Disallow: /js/
-# Disallow: /css/
-# Disallow: /lib/
-# Disallow: /svg/
-# Disallow: /tags/
-# Disallow: /categories/
+Allow: *
 
 User-agent: MJ12bot
 Disallow: /
