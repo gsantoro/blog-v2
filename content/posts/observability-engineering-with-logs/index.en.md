@@ -1,5 +1,5 @@
 ---
-title: "Exploring Structured Logging with slog in Go"
+title: "Observability Engineering with logs in Golang"
 date: 2023-09-23T17:22:37+01:00
 draft: false
 tags:
@@ -7,7 +7,7 @@ tags:
 - Golang
 - Logs
 - Programming
-description: Google's Latest Advancement - Exploring Structured Logging with the New slog Package in Go
+description: Application Observability with Structured Logs in Golang
 aliases: 
 - /logging-in-golang-with-slog/
 ---
