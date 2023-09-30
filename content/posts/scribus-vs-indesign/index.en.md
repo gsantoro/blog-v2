@@ -107,6 +107,11 @@ Between the main features we can find:
 - **Cross-Platform Availability**: available on all the major operating systems including Linux, Windows, or macOS.
 - **Great user community**: Extensive list of forums, tutorials, and official documentation.
 
+
+While researching for my article I found this great  [15-minute tutorial about creating a magazine with Scribus](https://www.youtube.com/watch?v=slbiQ0mJWbw&list=WL&index=1).
+
+{{< youtube slbiQ0mJWbw >}}
+
 ## Scribus vs. Adobe InDesign: A comparison
 In my very personal opinion, they are both great pieces of software with very similar capabilities.
 
