@@ -10,6 +10,7 @@ tags:
 description: Enhance your Kubernetes security using compact containers. Discover effective techniques like Wolfi OS, Buildpacks, and finally Melange and Apko from Chainguard
 aliases:
 - /shrink-to-secure-in-kubernetes/
+# canonicalUrl: 
 ---
 <!--more-->
 
