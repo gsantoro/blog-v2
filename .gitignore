@@ -20,6 +20,6 @@ devenv.local.nix
 tools/taskfiles/lib/*.yml
 
 ## blog
-# resources/
+resources/
 public
 .DS_Store
